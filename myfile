@@ -1,2 +1,8 @@
-iam form dev1i live in city
+<<<<<<< HEAD
+`:wq
+
+=======
+iam from dev2
+i live in city
+>>>>>>> df7e163bb2dc4e3794b7e2214e43b7ba7aaabf12
 i am from azure
